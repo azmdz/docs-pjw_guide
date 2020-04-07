@@ -1,5 +1,5 @@
 # Project Winter Beginner Guide
-Ver v1.1.10617
+Ver v1.1.13064
 
 ## ゲームの概要
 雪山に取り残された5~8人のサバイバーが協力して脱出するゲーム。  
